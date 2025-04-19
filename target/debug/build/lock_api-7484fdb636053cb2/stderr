@@ -1,0 +1,9 @@
+error: could not copy "/mnt/c/Users/91933/fluvio-collab-backend/target/debug/build/lock_api-7484fdb636053cb2/out/autocfg_faf35323e75234e1_0.autocfg_faf35323e75234e1_0.ab3a5e429bf11aa-cgu.0.rcgu.ll" to "/mnt/c/Users/91933/fluvio-collab-backend/target/debug/build/lock_api-7484fdb636053cb2/out/autocfg_faf35323e75234e1_0.ll": Operation not permitted (os error 1)
+
+error: aborting due to 1 previous error
+
+error: could not copy "/mnt/c/Users/91933/fluvio-collab-backend/target/debug/build/lock_api-7484fdb636053cb2/out/autocfg_faf35323e75234e1_1.autocfg_faf35323e75234e1_1.c60e6f29f1d8ac40-cgu.0.rcgu.ll" to "/mnt/c/Users/91933/fluvio-collab-backend/target/debug/build/lock_api-7484fdb636053cb2/out/autocfg_faf35323e75234e1_1.ll": Operation not permitted (os error 1)
+
+error: aborting due to 1 previous error
+
+warning: autocfg could not probe for `std`

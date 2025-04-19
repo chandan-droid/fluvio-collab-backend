@@ -1,0 +1,9 @@
+error: could not copy "/mnt/c/Users/91933/fluvio-collab-backend/target/debug/build/slab-c32cab9002cd3b18/out/autocfg_ff7c6e22d0c85265_0.autocfg_ff7c6e22d0c85265_0.f89b42f3c54ac504-cgu.0.rcgu.ll" to "/mnt/c/Users/91933/fluvio-collab-backend/target/debug/build/slab-c32cab9002cd3b18/out/autocfg_ff7c6e22d0c85265_0.ll": Operation not permitted (os error 1)
+
+error: aborting due to 1 previous error
+
+error: could not copy "/mnt/c/Users/91933/fluvio-collab-backend/target/debug/build/slab-c32cab9002cd3b18/out/autocfg_ff7c6e22d0c85265_1.autocfg_ff7c6e22d0c85265_1.8782647154bdd64e-cgu.0.rcgu.ll" to "/mnt/c/Users/91933/fluvio-collab-backend/target/debug/build/slab-c32cab9002cd3b18/out/autocfg_ff7c6e22d0c85265_1.ll": Operation not permitted (os error 1)
+
+error: aborting due to 1 previous error
+
+warning: autocfg could not probe for `std`
