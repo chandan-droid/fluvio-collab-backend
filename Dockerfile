@@ -1,5 +1,5 @@
 # Stage 1: Build
-FROM rust:1.75 as builder
+FROM rustlang/rust:nightly as builder
 
 WORKDIR /app
 COPY . .
